@@ -4,5 +4,6 @@ export const versions = [{
 	changes: [
 		`Added layout and the start page`,
 		`Added versions data and the versions page`,
+		`Added the about page`,
 	],
 }]

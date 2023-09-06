@@ -9,6 +9,7 @@
 
 <footer>
 	© {now.getFullYear()} Peter Larsson-Green |
+	<a href="/about">About</a> |
 	<a href="/versions">Version {latestVersion.id}</a>
 </footer>
 
